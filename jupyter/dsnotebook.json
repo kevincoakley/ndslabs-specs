@@ -4,7 +4,7 @@
     "description": "Jupyter data science notebook",
     "logo": "/asset/png/logos/jupyter-logo.png",
     "image": {
-        "name": "jupyter/datascience-notebook",
+        "name": "kevincoakley/datascience-notebook",
         "tags": [
             "latest"
         ]
